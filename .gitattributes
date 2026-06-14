@@ -1,0 +1,30 @@
+# Normalize line endings
+* text=auto
+
+# Source / text
+*.cs           text
+*.shader       text
+*.cginc        text
+*.hlsl         text
+*.json         text
+*.txt          text
+*.md           text
+*.html         text
+
+# Unity YAML assets
+*.unity        text
+*.asset        text
+*.prefab       text
+*.mat          text
+*.meta         text
+*.inputactions text
+
+# Binary assets
+*.png  binary
+*.jpg  binary
+*.ttf  binary
+*.ico  binary
+*.wav  binary
+*.mp3  binary
+*.ogg  binary
+*.unitypackage binary
