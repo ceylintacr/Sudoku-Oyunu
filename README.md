@@ -1,4 +1,4 @@
-# Sudoku (Branching)
+# Sudoku 
 
 Unity ile yapılmış, sevimli pastel temalı bir Sudoku oyunu. Arayüzün tamamı çalışma
 zamanında koddan kurulur (`SudokuBootstrapper`), bu yüzden boş bir sahnede Play'e
